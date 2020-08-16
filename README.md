@@ -10,19 +10,19 @@
 
 ### MySQL on Linux
 
-- [Ubuntu MySQL 安装教程](Ubuntu MySQL 安装教程.md)
+- [Ubuntu MySQL 安装教程](./Ubuntu MySQL 安装教程.md)
     - 服务端
     - 客户端，包括命令行客户端与图形化客户端Navicat
-- [MySQL重置管理员密码](MySQL重置管理员密码.md)
-- [Linux MySQL5.7 安装教程](Linux MySQL5.7 安装教程.md)
+- [MySQL重置管理员密码](./MySQL重置管理员密码.md)
+- [Linux MySQL5.7 安装教程](./Linux MySQL5.7 安装教程.md)
 
-- [Linux MySQL5.7 彻底卸载](Linux MySQL5.7 彻底卸载.md)
+- [Linux MySQL5.7 彻底卸载](./Linux MySQL5.7 彻底卸载.md)
 
 
 
 ### MySQL on Win
 
-- [Win 10 MySQL5.7 安装教程](Win10 MySQL5.7 安装教程.md)
+- [Win 10 MySQL5.7 安装教程](./Win10 MySQL5.7 安装教程.md)
 - 图形化界面客户端Navicat
 
 
@@ -137,4 +137,4 @@
 
 ## 其他
 
-### 1. [廖雪峰的 MySQL 教程笔记](MySQL from liaoxuefeng.com.md)
+### 1. [廖雪峰的 MySQL 教程笔记](./MySQL from liaoxuefeng.com.md)
